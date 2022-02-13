@@ -17,3 +17,13 @@ From 02-04-2021 to 02-13-2021 i'm going to use:
 
 - Python version: 3.10.1
 - Jupyter Notebook version: 6.4.8
+
+## Credits:
+
+Credits to Fernanda Ochoa - Learning Producer at LaunchX.
+
+Follow her on:
+
+- GitHub: FernandaOchoa
+- Twitter: @imonsh
+- Instagram: fherz8a
