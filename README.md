@@ -1,6 +1,8 @@
-# Launch X - OnBoarding 🛰️
+<h1 align="center"> Launch X - OnBoarding 🛰️ </h1>
 
-Learning fundamentals concepts about programming using Python.
+<p align="center">
+    Learning fundamentals concepts about programming using Python.
+</p>
 
 ## Table of contents
 
